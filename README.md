@@ -4,49 +4,49 @@ The used Machine Learning techniques are-
 
 Feature Selection Methods
 
-Chi-Square Based Feature Selection
+1. Chi-Square Based Feature Selection
 
-Mutual Information Based Feature Selection
+2. Mutual Information Based Feature Selection
 
-Spearman's Correlation Based Feature Selection
+3. Spearman's Correlation Based Feature Selection
 
 Feature Extraction Methods
 
-Reverse Features Extraction(RFE)
+1. Reverse Features Extraction(RFE)
 
-Reverse Features Extraction with Cross-Validation(RFECV)
+2. Reverse Features Extraction with Cross-Validation(RFECV)
 
 Classification Algorithms
 
-Extra Tree classifier
+1. Extra Tree classifier
 
-Decision Tree
+2. Decision Tree
 
-QDA
+3. QDA
 
-KNN
+4. KNN
 
-Bagging
+5. Bagging
 
-Adaboost
+6. Adaboost
 
-MLP
+7. MLP
 
-Gradient boosting
+8. Gradient boosting
 
-NuSVC
+9. NuSVC
 
-LightGBM
+10. LightGBM
 
-Catboost
+11. Catboost
 
-XGboost
+12. XGboost
 
-Bernoulli Naive Bayes
+13. Bernoulli Naive Bayes
 
-Gaussian Naive Bayes
+14. Gaussian Naive Bayes
 
-Decision Tree
+15. Decision Tree
 
 Refereces:
 
